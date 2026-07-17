@@ -44,9 +44,7 @@ Website Kasir merupakan aplikasi berbasis **CodeIgniter 3** yang digunakan untuk
 
 ---
 
-## Screenshot
-
-Tambahkan screenshot berikut:
+## Tampilan :
 
 - Halaman Login
 - Dashboard
